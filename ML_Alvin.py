@@ -22,6 +22,7 @@ LColumn = 4
 #Method = 'NCA'
 Method = 'SDML'
 #Method = 'RCA'
+#
 
 wb = load_workbook(filename = 'demographic+Data+From+mimic.xlsx')
 ws = wb.active
