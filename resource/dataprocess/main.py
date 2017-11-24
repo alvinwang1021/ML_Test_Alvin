@@ -18,7 +18,7 @@ from metricLearning import metricLearning
 
 
 if __name__ == "__main__":
-    fileName = 'C:\Users\Alvin UTS\eclipse-workspace\ML_Alvin\demographic+Data+From+mimic.csv'
+    fileName = '../../demographic+Data+From+mimic.csv'
     toRows = 20
     
     data = readData(fileName, toRows)
