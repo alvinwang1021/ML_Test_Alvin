@@ -5,6 +5,7 @@ Created on 24 Nov. 2017
 '''
 import pandas as pd
 
+
 data = pd.read_csv('../dataprocess/data/testRead.csv')
 
 print data
